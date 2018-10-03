@@ -1,6 +1,6 @@
 #XinaBox
     ##SL06
-        ambient_light
+	ambient_light
 	colour
 	gesture
 	proximity
