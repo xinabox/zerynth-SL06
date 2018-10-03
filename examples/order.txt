@@ -1,4 +1,4 @@
-#Namespace
+#XinaBox
     ##SL06
         ambient_light
 	colour
