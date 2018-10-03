@@ -2,7 +2,9 @@
 XinaBox SL06
 *************
 
-The SL06 xChip features advanced Gesture detection, Proximity detection, Digital Ambient Light Sense (ALS) and Colour Sense (RGBC).
+The SL06 xChip features advanced Gesture detection, Proximity detection, Digital Ambient Light Sense (ALS) and Colour Sense (RGBC). It is based on the popular `APDS9960 <https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960>`_ manufactured by Avago Technologies.
+
+Please note, SL06 and all other xChips is currently only supported in Zerynth Studio with `XinaBox CW02 <https://docs.zerynth.com/latest/official/board.zerynth.xinabox_esp32/docs/index.html>`_. Review the `Quick Start <https://wiki.xinabox.cc/Quick-Start>`_ guide for interfacing xChips.
 
 ==================
 Technical Details
