@@ -7,7 +7,7 @@
         "light",
         "colour",
         "gesture",
-        "proximity"
+        "proximity",
         "APDS-9960"
     ],
     "info": {
