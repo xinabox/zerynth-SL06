@@ -1,8 +1,13 @@
 {
+    "description": "Module for XinaBox SL06 ambient light, colour, gesture and proximity sensor",
     "fullname": "lib.xinabox.sl06",
     "git_pointer": "github://xinabox/zerynth-SL06",
-    "title": "XinaBox SL06",
-    "description": "Module for XinaBox SL06 ambient light, colour, gesture and proximity sensor",
+    "info": {
+        "chip_manufacturer": "XinaBox",
+        "chip_name": "SL06",
+        "name": "ambient light, colour, gesture, proximity sensor",
+        "type": "Sensor"
+    },
     "keywords": [
         "light",
         "colour",
@@ -10,12 +15,7 @@
         "proximity",
         "APDS-9960"
     ],
-    "info": {
-        "chip_manufacturer": "XinaBox",
-        "chip_name": "SL06",
-        "name": "ambient light, colour, gesture, proximity sensor",
-        "type": "Sensor"
-    }, 
     "repo": "official",
-    "version": "r2.1.2"
+    "title": "XinaBox SL06",
+    "version": "r2.2.0"
 }
